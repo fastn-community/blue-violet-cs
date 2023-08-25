@@ -52,31 +52,31 @@ dark: #393939
 
 -- ftd.color cta-primary-base-:
 light: #9539E9
-dark: #FEE106
+dark: #9539E9
 
 -- ftd.color cta-primary-hover-:
 light: #8419E6
-dark: #F1D609
+dark: #8419E6
 
 -- ftd.color cta-primary-pressed-:
 light: #7A17D3
-dark: #EED200
+dark: #7A17D3
 
 -- ftd.color cta-primary-disabled-:
 light: #D5B0F6
-dark: #FEF083
+dark: #D5B0F6
 
 -- ftd.color cta-primary-focused-:
 light: #9539E9
-dark: #FEE106
+dark: #9539E9
 
 -- ftd.color cta-primary-border-:
 light: #9539E9
-dark: #FEE106
+dark: #9539E9
 
 -- ftd.color cta-primary-text-:
 light: #FFFFFF
-dark: #222222
+dark: #FFFFFF
 
 -- ftd.color cta-primary-text-disabled-:
 light: #65b693
